@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Noah Bamberger
+Sudent Email:  ntbamber@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+This assignment helped me to understand how to parse structured data from strings and handle lists of dictionaries. I found the handling lists of dictionaries to not be too challenge, but parsing the strings proved very difficult. My main issues was handling the inputs with /s in parse_packaging such as "20 pieces in 1 pack / 10 packs in 1 carton / 4 cartons in 1 box". I was missing the way to handle the last items in the list after splitting. I now understand that I was missing that part after reviewing the solution file and using Chat GPT to help understand the errors.
